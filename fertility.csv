@@ -1,0 +1,254 @@
+Entity,Fertility_Rate
+Afghanistan,4.84
+Africa (UN),4.072
+Albania,1.348
+Algeria,2.766
+American Samoa,2.286
+Andorra,1.082
+Angola,5.124
+Anguilla,1.364
+Antigua and Barbuda,1.578
+Argentina,1.5
+Armenia,1.714
+Aruba,1.602
+Asia (UN),1.881
+Australia,1.638
+Austria,1.317
+Azerbaijan,1.67
+Bahamas,1.373
+Bahrain,1.824
+Bangladesh,2.163
+Barbados,1.708
+Belarus,1.208
+Belgium,1.379
+Belize,2.007
+Benin,4.556
+Bermuda,1.401
+Bhutan,1.462
+Bolivia,2.547
+Bonaire Sint Eustatius and Saba,1.473
+Bosnia and Herzegovina,1.486
+Botswana,2.732
+Brazil,1.619
+British Virgin Islands,1.045
+Brunei,1.747
+Bulgaria,1.749
+Burkina Faso,4.186
+Burundi,4.878
+Cambodia,2.579
+Cameroon,4.322
+Canada,1.349
+Cape Verde,1.522
+Cayman Islands,1.531
+Central African Republic,6.012
+Chad,6.12
+Chile,1.167
+China,0.999
+Colombia,1.645
+Comoros,3.878
+Congo,4.157
+Cook Islands,2.045
+Costa Rica,1.33
+Cote d'Ivoire,4.283
+Croatia,1.468
+Cuba,1.439
+Curacao,1.073
+Cyprus,1.389
+Czechia,1.448
+Democratic Republic of Congo,6.051
+Denmark,1.511
+Djibouti,2.609
+Dominica,1.484
+Dominican Republic,2.243
+East Timor,2.707
+Ecuador,1.823
+Egypt,2.75
+El Salvador,1.775
+Equatorial Guinea,4.081
+Eritrea,3.713
+Estonia,1.35
+Eswatini,2.753
+Ethiopia,3.989
+Europe (UN),1.395
+Falkland Islands,1.685
+Faroe Islands,2.24
+Fiji,2.281
+Finland,1.28
+France,1.639
+French Guiana,3.388
+French Polynesia,1.501
+Gabon,3.647
+Gambia,4.006
+Georgia,1.81
+Germany,1.441
+Ghana,3.397
+Gibraltar,1.888
+Greece,1.334
+Greenland,1.95
+Grenada,1.487
+Guadeloupe,2.089
+Guam,2.781
+Guatemala,2.311
+Guernsey,1.362
+Guinea,4.217
+Guinea-Bissau,3.836
+Guyana,2.412
+Haiti,2.656
+High-income countries,1.467
+Honduras,2.5
+Hong Kong,0.717
+Hungary,1.486
+Iceland,1.54
+India,1.975
+Indonesia,2.127
+Iran,1.695
+Iraq,3.249
+Ireland,1.598
+Isle of Man,1.548
+Israel,2.83
+Italy,1.198
+Jamaica,1.358
+Japan,1.208
+Jersey,1.371
+Jordan,2.639
+Kazakhstan,3.012
+Kenya,3.208
+Kiribati,3.147
+Kosovo,1.545
+Kuwait,1.525
+Kyrgyzstan,2.8
+Laos,2.421
+Latin America and the Caribbean (UN),1.807
+Latvia,1.338
+Least developed countries,3.936
+Lebanon,2.239
+Lesotho,2.694
+Less developed regions,2.361
+"Less developed regions, excluding China",2.649
+"Less developed regions, excluding least developed countries",2.02
+Liberia,3.95
+Libya,2.355
+Liechtenstein,1.537
+Lithuania,1.201
+Low-income countries,4.532
+Lower-middle-income countries,2.554
+Luxembourg,1.396
+Macao,0.662
+Madagascar,3.972
+Malawi,3.648
+Malaysia,1.55
+Maldives,1.575
+Mali,5.614
+Malta,1.098
+Marshall Islands,2.919
+Martinique,2.009
+Mauritania,4.697
+Mauritius,1.241
+Mayotte,4.616
+Mexico,1.91
+Micronesia (country),2.748
+Moldova,1.731
+Monaco,2.11
+Mongolia,2.685
+Montenegro,1.803
+Montserrat,1.444
+More developed regions,1.452
+Morocco,2.23
+Mozambique,4.763
+Myanmar,2.115
+Namibia,3.212
+Nauru,3.331
+Nepal,1.984
+Netherlands,1.43
+New Caledonia,1.98
+New Zealand,1.667
+Nicaragua,2.218
+Niger,6.061
+Nigeria,4.482
+Niue,2.514
+North Korea,1.78
+North Macedonia,1.465
+Northern America (UN),1.597
+Northern Mariana Islands,2.348
+Norway,1.405
+Oceania (UN),2.142
+Oman,2.525
+Pakistan,3.605
+Palau,1.907
+Palestine,3.311
+Panama,2.119
+Papua New Guinea,3.099
+Paraguay,2.422
+Peru,1.98
+Philippines,1.916
+Poland,1.299
+Portugal,1.508
+Puerto Rico,0.941
+Qatar,1.729
+Reunion,2.174
+Romania,1.713
+Russia,1.449
+Rwanda,3.698
+Saint Barthelemy,0.801
+Saint Helena,1.636
+Saint Kitts and Nevis,1.505
+Saint Lucia,1.379
+Saint Martin (French part),2.718
+Saint Pierre and Miquelon,1.267
+Saint Vincent and the Grenadines,1.775
+Samoa,3.829
+San Marino,1.149
+Sao Tome and Principe,3.644
+Saudi Arabia,2.28
+Senegal,3.818
+Serbia,1.5
+Seychelles,2.133
+Sierra Leone,3.791
+Singapore,0.943
+Sint Maarten (Dutch part),1.447
+Slovakia,1.56
+Slovenia,1.576
+Solomon Islands,3.557
+Somalia,6.132
+South Africa,2.216
+South Korea,0.72
+South Sudan,3.864
+Spain,1.213
+Sri Lanka,1.974
+Sudan,4.323
+Suriname,2.249
+Sweden,1.43
+Switzerland,1.433
+Syria,2.712
+Taiwan,0.87
+Tajikistan,3.072
+Tanzania,4.606
+Thailand,1.212
+Togo,4.192
+Tokelau,2.612
+Tonga,3.129
+Trinidad and Tobago,1.532
+Tunisia,1.832
+Turkey,1.625
+Turkmenistan,2.69
+Turks and Caicos Islands,1.463
+Tuvalu,3.208
+Uganda,4.283
+Ukraine,0.977
+United Arab Emirates,1.2
+United Kingdom,1.56
+United States,1.624
+United States Virgin Islands,2.09
+Upper-middle-income countries,1.479
+Uruguay,1.409
+Uzbekistan,3.5
+Vanuatu,3.596
+Vatican,1
+Venezuela,2.079
+Vietnam,1.913
+Wallis and Futuna,1.41
+Western Sahara,2.164
+World,2.251
+Yemen,4.59
+Zambia,4.101
+Zimbabwe,3.724

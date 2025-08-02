@@ -1,0 +1,262 @@
+Entity,Life_Expectancy
+Afghanistan,66.0346
+Africa,63.8428
+Albania,79.6019
+Algeria,76.261
+American Samoa,72.8518
+Americas,77.2922
+Andorra,84.0406
+Angola,64.617
+Anguilla,79.3115
+Antigua and Barbuda,77.5976
+Argentina,77.3947
+Armenia,75.6827
+Aruba,76.353
+Asia,74.5661
+Australia,83.9228
+Austria,81.9559
+Azerbaijan,74.4286
+Bahamas,74.5518
+Bahrain,81.2835
+Bangladesh,74.6723
+Barbados,76.1782
+Belarus,74.4339
+Belgium,82.115
+Belize,73.5656
+Benin,60.7738
+Bermuda,82.3089
+Bhutan,72.9753
+Bolivia,68.5814
+Bonaire Sint Eustatius and Saba,77.4355
+Bosnia and Herzegovina,77.8504
+Botswana,69.1631
+Brazil,75.8482
+British Virgin Islands,77.2758
+Brunei,75.3266
+Bulgaria,75.6363
+Burkina Faso,61.092
+Burundi,63.6511
+Cambodia,70.6675
+Cameroon,63.6996
+Canada,82.6302
+Cape Verde,76.0587
+Cayman Islands,80.3576
+Central African Republic,57.4077
+Chad,55.0692
+Chile,81.1667
+China,77.9529
+Colombia,77.7246
+Comoros,66.7768
+Congo,65.772
+Cook Islands,75.2818
+Costa Rica,80.7995
+Cote d'Ivoire,61.9438
+Croatia,78.5803
+Cuba,78.0855
+Curacao,76.7996
+Cyprus,81.648
+Czechia,79.8341
+Democratic Republic of Congo,61.895
+Denmark,81.9328
+Djibouti,65.9865
+Dominica,71.1325
+Dominican Republic,73.7201
+East Timor,67.6894
+Ecuador,77.3924
+Egypt,71.6335
+El Salvador,72.0993
+Equatorial Guinea,63.7071
+Eritrea,68.6239
+Estonia,79.1535
+Eswatini,64.1227
+Ethiopia,67.315
+Europe,79.0594
+Falkland Islands,79.2132
+Faroe Islands,80.1792
+Fiji,67.3157
+Finland,81.9102
+France,83.3253
+French Guiana,76.9781
+French Polynesia,84.0698
+Gabon,68.3367
+Gambia,65.8603
+Georgia,74.4965
+Germany,81.3777
+Ghana,65.4979
+Gibraltar,83.553
+Greece,81.8568
+Greenland,70.055
+Grenada,75.2052
+Guadeloupe,82.0503
+Guam,77.2093
+Guatemala,72.6023
+Guernsey,83.2744
+Guinea,60.7405
+Guinea-Bissau,64.0849
+Guyana,70.1802
+Haiti,64.9356
+High-and-upper-middle-income countries,77.7818
+High-income countries,81.4353
+Honduras,72.8842
+Hong Kong,85.5106
+Hungary,77.024
+Iceland,82.6911
+India,72.0026
+Indonesia,71.1457
+Iran,77.6545
+Iraq,72.3242
+Ireland,82.4118
+Isle of Man,80.999
+Israel,82.408
+Italy,83.7157
+Jamaica,71.4789
+Japan,84.7123
+Jersey,79.7071
+Jordan,77.8145
+Kazakhstan,74.4021
+Kenya,63.6459
+Kiribati,66.4731
+Kosovo,78.0326
+Kuwait,80.4047
+Kyrgyzstan,71.677
+Land-locked Developing Countries (LLDC),66.5899
+Laos,68.9637
+Latin America and the Caribbean,75.6915
+Latvia,76.1898
+Least developed countries,66.3514
+Lebanon,77.817
+Lesotho,57.3749
+Less developed regions,71.7284
+"Less developed regions, excluding China",70.2206
+"Less developed regions, excluding least developed countries",72.9367
+Liberia,62.1625
+Libya,69.3389
+Liechtenstein,83.6298
+Lithuania,76.025
+Low-and-Lower-middle-income countries,68.6631
+Low-and-middle-income countries,71.474
+Low-income countries,64.9377
+Lower-middle-income countries,69.5854
+Luxembourg,82.2294
+Macao,83.0749
+Madagascar,63.6317
+Malawi,67.3535
+Malaysia,76.6571
+Maldives,81.0412
+Mali,60.4394
+Malta,83.2989
+Marshall Islands,66.9454
+Martinique,82.5651
+Mauritania,68.4836
+Mauritius,74.9263
+Mayotte,76.0544
+Mexico,75.069
+Micronesia (country),67.1983
+Middle-income countries,72.386
+Moldova,71.1985
+Monaco,86.3724
+Mongolia,71.7341
+Montenegro,77.0869
+Montserrat,76.1857
+More developed regions,79.8777
+Morocco,75.3128
+Mozambique,63.6111
+Myanmar,66.889
+Namibia,67.3848
+Nauru,62.1094
+Nepal,70.3537
+Netherlands,82.1576
+New Caledonia,78.7658
+New Zealand,82.088
+Nicaragua,74.9468
+Niger,61.1833
+Nigeria,54.4623
+Niue,69.9778
+No income group available,72.5194
+North Korea,73.6418
+North Macedonia,77.3947
+Northern America,79.6418
+Northern Mariana Islands,78.8075
+Norway,83.3078
+Oceania,79.1464
+Oman,80.0305
+Pakistan,67.649
+Palau,69.269
+Palestine,65.1703
+Panama,79.5937
+Papua New Guinea,66.134
+Paraguay,73.8443
+Peru,77.7401
+Philippines,69.8327
+Poland,78.6329
+Portugal,82.3599
+Puerto Rico,81.6902
+Qatar,82.368
+Reunion,83.5472
+Romania,75.9381
+Russia,73.1541
+Rwanda,67.7852
+Saint Barthelemy,84.2901
+Saint Helena,76.7869
+Saint Kitts and Nevis,72.1447
+Saint Lucia,72.6968
+Saint Martin (French part),80.2238
+Saint Pierre and Miquelon,76.7578
+Saint Vincent and the Grenadines,71.2301
+Samoa,71.6982
+San Marino,85.7062
+Sao Tome and Principe,69.7182
+Saudi Arabia,78.7321
+Senegal,68.6829
+Serbia,76.7693
+Seychelles,72.862
+Sierra Leone,61.7858
+Singapore,83.7362
+Sint Maarten (Dutch part),76.371
+Slovakia,78.3414
+Slovenia,81.6034
+Small Island Developing States (SIDS),72.7255
+Solomon Islands,70.5277
+Somalia,58.8158
+South Africa,66.1387
+South Korea,84.3288
+South Sudan,57.6174
+Spain,83.6703
+Sri Lanka,77.4828
+Sudan,66.331
+Suriname,73.631
+Sweden,83.2624
+Switzerland,83.9536
+Syria,72.1201
+Taiwan,80.5588
+Tajikistan,71.7901
+Tanzania,66.9953
+Thailand,76.4115
+Togo,62.7387
+Tokelau,77.0512
+Tonga,72.8947
+Trinidad and Tobago,73.4896
+Tunisia,76.5077
+Turkey,77.1557
+Turkmenistan,70.0727
+Turks and Caicos Islands,78.0077
+Tuvalu,67.1049
+Uganda,68.2523
+Ukraine,73.4225
+United Arab Emirates,82.9091
+United Kingdom,81.3015
+United States,79.3043
+United States Virgin Islands,75.4724
+Upper-middle-income countries,75.8812
+Uruguay,78.1385
+Uzbekistan,72.3884
+Vanuatu,71.4769
+Vatican,82.9848
+Venezuela,72.5142
+Vietnam,74.5883
+Wallis and Futuna,78.6286
+Western Sahara,71.385
+World,73.1694
+Yemen,69.2952
+Zambia,66.3487
+Zimbabwe,62.7748
