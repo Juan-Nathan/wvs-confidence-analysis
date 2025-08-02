@@ -82,7 +82,12 @@ The following institutions were analyzed, identified by columns in the dataset p
 - Regression models fitted to Romania's peer group (based on external indicators) produced predictor patterns that closely matched those in Romania, more so than models based on all other countries.
 - This confirms that the clustering approach was effective, improving the relevance and interpretability of the analysis by grouping countries with similar socio-economic and cultural contexts.
 
+### 🚀 How to Run
+
+1. **Download** or **clone** the repository.
+2. Open the project folder in RStudio.
+3. Run the R script (wvs_analysis.r) inside the RStudio environment.
+
 ## 👤 Author
 
 Developed by Juan Nathan.
-
