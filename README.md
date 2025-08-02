@@ -41,7 +41,8 @@ The following institutions were analyzed, identified by columns in the dataset p
   - Descriptive statistics
   - Linear regression modeling
   - Hierarchical clustering (Ward's method)
-  - Country-level comparisons using mean values and Adjusted R²
+  - Exploratory data analysis
+  - Adjusted R² comparisons
 
 ## 🧪 Questions Addressed
 
@@ -91,3 +92,4 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## 👤 Author
 
 Developed by Juan Nathan.
+
