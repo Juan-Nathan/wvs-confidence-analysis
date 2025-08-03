@@ -35,7 +35,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## 🛠 Tools & Methods
 
 - **Language**: R  
-- **Libraries**: `dplyr`, `ggplot2`
+- **Packages**: `dplyr`, `ggplot2`
 - **Techniques**:
   - Data cleaning and preprocessing
   - Descriptive statistics
@@ -85,11 +85,10 @@ The following institutions were analyzed, identified by columns in the dataset p
 
 ### 🚀 How to Run
 
-1. **Download** or **clone** the repository.
+1. Clone the repository or download the ZIP file from GitHub.
 2. Open the project folder in RStudio.
-3. Run the R script (wvs_analysis.r) inside the RStudio environment.
+3. Run the R script (`wvs_analysis.r`) inside the RStudio environment.
 
 ## 👤 Author
 
 Developed by Juan Nathan.
-
