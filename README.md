@@ -34,7 +34,8 @@ The following institutions were analyzed, identified by columns in the dataset p
 
 ## 🛠 Tools & Methods
 
-- **Language**: R  
+- **Language**: R
+- **IDE**: RStudio
 - **Packages**: `dplyr`, `ggplot2`
 - **Techniques**:
   - Data cleaning and preprocessing
