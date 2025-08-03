@@ -77,7 +77,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 - These models had the highest adjusted R², indicating stronger fit and explanatory power.
 
 ### Strong and consistent predictors across analyses:
-- VPolitics (political interest), VReligion (religiosity), and TNeighbourhood (trust in neighbors) were the most reliable predictors across Romania, its peer cluster, and the global group.
+- `VPolitics` (political interest), `VReligion` (religiosity), and `TNeighbourhood` (trust in neighbors) were the most reliable predictors across Romania, its peer cluster, and the global group.
 
 ### Effectiveness of clustering:
 - Regression models fitted to Romania's peer group (based on external indicators) produced predictor patterns that closely matched those in Romania, more so than models based on all other countries.
@@ -92,4 +92,3 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## 👤 Author
 
 Developed by Juan Nathan.
-
