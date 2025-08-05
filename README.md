@@ -52,7 +52,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 
 ### 2. Focus Country (Romania) vs. All Others  
 - Compared Romania's participant attributes against the other countries.
-- Fitted linear models to predict confidence in institutions using predictor attributes.
+- Fitted separate linear models for Romania and for all other countries combined to predict confidence in institutions using participant attributes.
 - Identified top predictors and their strength (using Adjusted R²).
 
 ### 3. Focus Country vs. Cluster of Similar Countries  
@@ -68,6 +68,7 @@ The following institutions were analyzed, identified by columns in the dataset p
   - Religious composition
   - Average years of schooling
   - Unemployment rate
+- Fitted a linear model for the cluster of similar countries combined.
 - Evaluated how well participant attributes within the cluster predicted confidence in social institutions.
 - Compared predictor patterns between the cluster and Romania, and between the cluster and all other countries.
 
@@ -81,7 +82,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 - `VPolitics` (political interest), `VReligion` (religiosity), and `TNeighbourhood` (trust in neighbors) were the most reliable predictors across Romania, its peer cluster, and the global group.
 
 ### Effectiveness of clustering:
-- Regression models fitted to Romania's peer group (based on external indicators) produced predictor patterns that closely matched those in Romania, more so than models based on all other countries.
+- The regression model fitted to Romania's peer group (based on external indicators) produced predictor patterns that more closely matched Romania's than the model based on all other countries combined.
 - This confirms that the clustering approach was effective, improving the relevance and interpretability of the analysis by grouping countries with similar socio-economic and cultural contexts.
 
 ### 🚀 How to Run
