@@ -1,6 +1,6 @@
 # 🌍 World Values Survey: Confidence in Social Organizations
 
-This project investigates how individual characteristics influence confidence in social institutions across countries, using data from the World Values Survey (WVS) Wave 7. The analysis focuses on Romania and compares its patterns with other countries globally and with a cluster of socio-economically similar nations.
+This project investigates how individual characteristics influence confidence in social institutions across countries, using R and data from the World Values Survey (WVS) Wave 7. The analysis focuses on Romania and compares its patterns with other countries globally and with a cluster of socio-economically similar nations.
 
 ## 🎯 Objectives
 
@@ -94,4 +94,5 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## 👤 Author
 
 Developed by Juan Nathan.
+
 
