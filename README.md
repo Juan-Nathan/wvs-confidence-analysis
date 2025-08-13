@@ -105,9 +105,12 @@ The following institutions were analyzed, identified by columns in the dataset p
 2. Open the project folder in RStudio.
 3. Run the R script (`wvs_analysis.r`) inside the RStudio environment.
 
+---
+
 ## 👤 Author
 
 Developed by Juan Nathan.
+
 
 
 
