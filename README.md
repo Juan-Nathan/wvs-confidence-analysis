@@ -2,7 +2,7 @@
 
 This project investigates how individual characteristics influence confidence in social institutions across countries, using R and data from the World Values Survey (WVS) Wave 7. The analysis focuses on Romania and compares its patterns with other countries globally and with a cluster of socio-economically similar nations.
 
-## 🎯 Objectives
+## Objectives
 
 The main goals of this analysis are to:
 
@@ -11,13 +11,13 @@ The main goals of this analysis are to:
 3. Identify how well participant responses predict **confidence in social organizations**.
 4. Cluster countries using external socio-economic indicators to find those **similar to Romania** and assess how confidence predictors compare within that group.
 
-## 🌐 Dataset
+## Dataset
 
 - **Source**: [World Values Survey (WVS)](https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp)
 - **Subset**: Sampled 50,000 participants using a random seed.
 - **Attributes**: Includes demographic, belief-based, and institutional confidence variables.
 
-## 📊 Institutions Studied
+## Institutions Studied
 
 The following institutions were analyzed, identified by columns in the dataset prefixed with `"C"`:
 
@@ -32,7 +32,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 - Religious Institutions
 - Trade Unions
 
-## 🛠 Tools & Methods
+## Tools & Methods
 
 - **Language**: R
 - **IDE**: RStudio
@@ -45,7 +45,7 @@ The following institutions were analyzed, identified by columns in the dataset p
   - Exploratory data analysis
   - Adjusted R² comparisons
 
-## 🧪 Questions Addressed
+## Questions Addressed
 
 ### 1. Descriptive Analysis  
 - Examined dataset dimensions, variable types, distributions, missing values, and invalid codes.
@@ -72,7 +72,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 - Evaluated how well participant attributes within the cluster predicted confidence in social institutions.
 - Compared predictor patterns between the cluster and Romania, and between the cluster and all other countries.
 
-## 📈 Key Findings
+## Key Findings
 
 ### Romania-specific findings:
 - Confidence in religious institutions, government, and elections was best predicted by individual characteristics.
@@ -85,17 +85,12 @@ The following institutions were analyzed, identified by columns in the dataset p
 - Regression models fitted to Romania's peer group (based on external indicators) produced predictor patterns that more closely matched Romania's than the models based on all other countries combined.
 - This confirms that the clustering approach was effective, improving the relevance and interpretability of the analysis by grouping countries with similar socio-economic and cultural contexts.
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository or download the ZIP file from GitHub.
 2. Open the project folder in RStudio.
 3. Run the R script (`wvs_analysis.r`) inside the RStudio environment.
 
-## 👤 Author
+## Author
 
 Developed by Juan Nathan.
-
-
-
-
-
