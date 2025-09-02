@@ -39,11 +39,9 @@ The following institutions were analyzed, identified by columns in the dataset p
 - **IDE**: RStudio
 - **Packages**: `dplyr`, `ggplot2`
 - **Techniques**:
-  - Data cleaning and preprocessing
-  - Descriptive statistics
+  - Descriptive analysis
   - Linear regression modeling
   - Hierarchical clustering (Ward's method)
-  - Exploratory data analysis
   - Adjusted R² comparisons
 
 ## Questions Addressed
@@ -95,6 +93,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Author
 
 Developed by Juan Nathan.
+
 
 
 
