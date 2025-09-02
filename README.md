@@ -15,7 +15,7 @@ The main goals of this analysis are to:
 
 - `WVSExtract.csv`
 - **Source**: [World Values Survey (WVS)](https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp)
-- **Subset**: Sampled 50,000 participants using a random seed.
+- **Subset**: Sampled 50,000 participants randomly.
 - **Attributes**: Includes demographic, belief-based, and institutional confidence variables.
 
 ## Institutions Studied
@@ -95,6 +95,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Author
 
 Developed by Juan Nathan.
+
 
 
 
