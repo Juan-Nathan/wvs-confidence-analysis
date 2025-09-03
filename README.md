@@ -41,7 +41,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 - Religious Institutions
 - Trade Unions
 
-## Approach
+## Project Workflow
 
 ### 1. Descriptive Analysis  
 - Examined dataset dimensions, variable types, distributions, and missing values.
@@ -90,6 +90,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Author
 
 Developed by Juan Nathan.
+
 
 
 
