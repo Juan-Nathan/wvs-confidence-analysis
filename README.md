@@ -81,7 +81,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 - `VPolitics` (political interest), `VReligion` (religiosity), and `TNeighbourhood` (trust in neighbors) were the most significant predictors across Romania, its peer cluster, and the pooled group of other countries.
 
 ### Effectiveness of clustering:
-- Regression models fitted to Romania produced performance and predictor patterns that **more closely matched** its peer group than all other countries combined. 
+- Regression models fitted to Romania produced performance and predictor patterns that **more closely matched** its peer group than those of all other countries combined. 
 - This confirms that the **clustering approach was effective**, enhancing the relevance and interpretability of the analysis by grouping countries with similar socio-economic and cultural contexts.
 
 ## How to Run
@@ -93,6 +93,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Author
 
 Developed by Juan Nathan.
+
 
 
 
