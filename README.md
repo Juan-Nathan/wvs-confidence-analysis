@@ -17,7 +17,8 @@ The main goals of this analysis are to:
 - **Source**: [WVS](https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp)
 - **Personal Subset**:
   - **Observations**: 50,000
-  - **Features**: 40 randomly selected variables, including country, demographic, belief-based, and institutional confidence variables
+  - **Features**: 30 randomly selected variables, including country, demographic characteristics, and belief-based factors  
+  - **Targets**: 10 randomly selected institutional confidence measures 
 
 ## Technologies Used
 
@@ -89,4 +90,5 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Author
 
 Developed by Juan Nathan.
+
 
