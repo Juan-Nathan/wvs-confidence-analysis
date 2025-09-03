@@ -69,7 +69,7 @@ The following institutions were analyzed, identified by columns in the dataset p
   - Unemployment rate
 - Fitted linear regression models for the group of countries clustered with Romania (excluding Romania itself).
 - Evaluated how well participant attributes within the cluster predicted confidence in social institutions.
-- Compared model results and predictor patterns across Romania, the cluster of similar countries, and the pooled group of other countries.
+- Compared model performance and predictor patterns across Romania, the cluster of similar countries, and the pooled group of other countries.
 
 ## Key Findings
 
@@ -93,4 +93,5 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Author
 
 Developed by Juan Nathan.
+
 
