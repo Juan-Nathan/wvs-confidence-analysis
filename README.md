@@ -28,7 +28,7 @@ The main goals of this analysis are to:
 
 ## Institutions Studied
 
-The following institutions were analyzed, identified by columns in the dataset prefixed with `"C"`:
+The following institutions were analyzed, identified by columns in the dataset prefixed with "`C`":
 
 - Government
 - Courts
@@ -48,7 +48,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 
 ### 2. Focus Country (Romania) vs. All Others  
 - Compared Romania's participant attributes against the other countries.
-- Fitted separate linear models for Romania and for all other countries combined to predict confidence in institutions using participant attributes.
+- Fitted separate linear regression models for Romania and for all other countries combined to predict confidence in institutions using participant attributes.
 - Identified top predictors and their strength (using adjusted R²).
 
 ### 3. Focus Country vs. Cluster of Similar Countries  
@@ -64,7 +64,7 @@ The following institutions were analyzed, identified by columns in the dataset p
   - Religious composition
   - Average years of schooling
   - Unemployment rate
-- Fitted linear models for the cluster of similar countries combined.
+- Fitted linear regression models for the cluster of similar countries combined.
 - Evaluated how well participant attributes within the cluster predicted confidence in social institutions.
 - Compared predictor patterns between the cluster and Romania, and between the cluster and all other countries.
 
@@ -90,5 +90,6 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Author
 
 Developed by Juan Nathan.
+
 
 
