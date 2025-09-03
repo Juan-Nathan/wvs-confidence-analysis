@@ -30,11 +30,11 @@ The main goals of this analysis are to:
 
 The following institutions were analyzed, identified by columns in the dataset prefixed with "`C`":
 
-- Government
+- Governments
 - Courts
 - Elections
 - Universities
-- Environmental Organisations
+- Environmental Organizations
 - Major Companies
 - Banks
 - Police
@@ -74,15 +74,15 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Key Findings
 
 ### Romania-specific findings:
-- Confidence in religious institutions, government, and elections was best predicted by the participant attributes.
-- These models had the highest adjusted R², indicating stronger fit and explanatory power.
+- Confidence in **religious institutions**, **governments**, and **elections** was best predicted by the participant attributes.
+- These models had the **highest adjusted R²**, indicating stronger fit and explanatory power.
 
 ### Strong and consistent predictors across analyses:
 - `VPolitics` (political interest), `VReligion` (religiosity), and `TNeighbourhood` (trust in neighbors) were the most significant predictors across Romania, its peer cluster, and the pooled group of other countries.
 
 ### Effectiveness of clustering:
-- Regression models fitted to Romania produced performance and predictor patterns that more closely matched its peer group than all other countries combined. 
-- This confirms that the clustering approach was effective, enhancing the relevance and interpretability of the analysis by grouping countries with similar socio-economic and cultural contexts.
+- Regression models fitted to Romania produced performance and predictor patterns that **more closely matched** its peer group than all other countries combined. 
+- This confirms that the **clustering approach was effective**, enhancing the relevance and interpretability of the analysis by grouping countries with similar socio-economic and cultural contexts.
 
 ## How to Run
 
@@ -93,6 +93,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Author
 
 Developed by Juan Nathan.
+
 
 
 
