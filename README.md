@@ -52,7 +52,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 - Identified top predictors and their strength (using adjusted R²).
 
 ### 3. Focus Country vs. Cluster of Similar Countries  
-- Clustered countries using hierarchical clustering (Ward's linkage, Euclidean distance) based on 11 external indicators:
+- Clustered countries using hierarchical clustering (Euclidean distance, Ward.D2 linkage) based on 11 external indicators:
   - GDP per capita
   - Fertility rate
   - CO₂ emissions
@@ -90,6 +90,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Author
 
 Developed by Juan Nathan.
+
 
 
 
