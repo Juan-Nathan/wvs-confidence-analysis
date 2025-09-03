@@ -1,22 +1,29 @@
 # 🌍 World Values Survey: Analysis of Confidence in Social Organizations
 
-This project investigates how individual characteristics influence confidence in social institutions across countries, using R and data from the World Values Survey (WVS) Wave 7. The analysis focuses on Romania and compares its patterns with other countries globally and with a cluster of socio-economically similar nations.
+This project investigates how **individual characteristics influence **confidence in social institutions** across countries, using R and data from the World Values Survey (WVS) Wave 7. The analysis focuses on **Romania** and compares its patterns with other countries globally and with a cluster of socio-economically similar nations.
 
 ## Objectives
 
 The main goals of this analysis are to:
 
-1. Perform descriptive analysis of WVS data and understand its structure.
-2. Compare participant attributes between **Romania** and all other countries.
-3. Identify how well participant responses predict **confidence in social organizations**.
-4. Cluster countries using external socio-economic indicators to find those **similar to Romania** and assess how confidence predictors compare within that group.
+1. Perform **descriptive analysis** of WVS data and understand its structure.
+2. **Compare** participant attributes between Romania and all other countries.
+3. Identify how well **participant responses** predict confidence in social organizations.
+4. **Cluster** countries using external socio-economic indicators to find those **similar to Romania** and assess how confidence predictors compare within that group.
 
 ## Dataset
 
 - `WVSExtract.csv`
-- **Source**: [World Values Survey (WVS)](https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp)
-- **Subset**: Sampled 50,000 participants randomly.
-- **Attributes**: Includes demographic, belief-based, and institutional confidence variables.
+- **Source**: [WVS](https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp)
+- **Personal Subset**:
+  - **Observations**: 50,000
+  - **Features**: 40 randomly selected variables, including demographic, belief-based, and institutional confidence variables
+
+## Technologies Used
+
+- **Language**: R
+- **IDE**: RStudio
+- **Packages**: `dplyr`, `ggplot2`
 
 ## Institutions Studied
 
@@ -33,17 +40,6 @@ The following institutions were analyzed, identified by columns in the dataset p
 - Religious Institutions
 - Trade Unions
 
-## Tools & Methods
-
-- **Language**: R
-- **IDE**: RStudio
-- **Packages**: `dplyr`, `ggplot2`
-- **Techniques**:
-  - Descriptive analysis
-  - Linear regression modeling
-  - Hierarchical clustering (Ward's method)
-  - Adjusted R² comparisons
-
 ## Questions Addressed
 
 ### 1. Descriptive Analysis  
@@ -52,10 +48,10 @@ The following institutions were analyzed, identified by columns in the dataset p
 ### 2. Focus Country (Romania) vs. All Others  
 - Compared Romania's participant attributes against the other countries.
 - Fitted separate linear models for Romania and for all other countries combined to predict confidence in institutions using participant attributes.
-- Identified top predictors and their strength (using Adjusted R²).
+- Identified top predictors and their strength (using adjusted R²).
 
 ### 3. Focus Country vs. Cluster of Similar Countries  
-- Clustered countries using 11 external indicators:
+- Clustered countries using hierarchical clustering (Ward's method) based on 11 external indicators:
   - GDP per capita
   - Fertility rate
   - CO₂ emissions
@@ -93,8 +89,3 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Author
 
 Developed by Juan Nathan.
-
-
-
-
-
