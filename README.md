@@ -44,7 +44,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Approach
 
 ### 1. Descriptive Analysis  
-- Examined dataset dimensions, variable types, distributions, missing values, and invalid codes.
+- Examined dataset dimensions, variable types, distributions, and missing values.
 
 ### 2. Focus Country (Romania) vs. All Others  
 - Compared Romania's participant attributes against the other countries.
@@ -90,6 +90,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Author
 
 Developed by Juan Nathan.
+
 
 
 
