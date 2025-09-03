@@ -1,6 +1,6 @@
 # 🌍 World Values Survey: Analysis of Confidence in Social Organizations
 
-This project investigates how **individual characteristics influence confidence in social institutions** across countries, using R and data from the World Values Survey (WVS) Wave 7. The analysis focuses on **Romania** and compares its patterns with other countries globally and with a cluster of socio-economically similar nations.
+This project investigates how **individual characteristics influence confidence in social institutions** across countries, using R and data from the World Values Survey (WVS) Wave 7. The analysis focuses on **Romania** and compares its patterns with all other countries combined and with a cluster of socio-economically similar nations.
 
 ## Dataset
 
@@ -81,7 +81,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 - `VPolitics` (political interest), `VReligion` (religiosity), and `TNeighbourhood` (trust in neighbors) were the most significant predictors across Romania, its peer cluster, and the pooled group of other countries.
 
 ### Effectiveness of clustering:
-- Regression models fitted to Romania's peer group (identified using external indicators) produced results and predictor patterns that more closely matched Romania's than those from models fitted to all other countries combined.
+- Regression models fitted to Romania produced performance and predictor patterns that more closely matched its peer group than all other countries combined. 
 - This confirms that the clustering approach was effective, enhancing the relevance and interpretability of the analysis by grouping countries with similar socio-economic and cultural contexts.
 
 ## How to Run
@@ -93,3 +93,4 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Author
 
 Developed by Juan Nathan.
+
