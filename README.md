@@ -6,10 +6,10 @@ This project investigates how **individual characteristics influence confidence 
 
 - `WVSExtract.csv`
 - **Source**: [WVS](https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp)
-- **Personal Subset**:
-  - **Observations**: 50,000 (randomly sampled)
-  - **Features**: 30 randomly selected variables, including country, demographic attributes, and belief-based factors  
-  - **Targets**: 10 randomly selected institutional confidence measures 
+- **Personal Subset** (randomly sampled with seed = 33270961):
+  - **Observations**: 50,000
+  - **Features**: 30 variables, including country, demographic attributes, and belief-based factors  
+  - **Targets**: 10 institutional confidence measures 
 
 ## Objectives
 
@@ -93,6 +93,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Author
 
 Developed by Juan Nathan.
+
 
 
 
