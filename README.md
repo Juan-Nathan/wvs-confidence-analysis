@@ -1,6 +1,6 @@
 # 🌍 World Values Survey: Analysis of Confidence in Social Organizations
 
-This project investigates how **individual characteristics predict confidence in social institutions** across countries, using data from the World Values Survey (WVS) Wave 7 in R. The analysis focuses on **Romania** and compares its patterns with all other countries combined and with a cluster of socio-economically similar nations.
+This project investigates how individual characteristics predict **confidence in social institutions across countries**, using data from the World Values Survey (WVS) Wave 7 in R. The analysis focuses on **Romania** and compares its patterns with all other countries combined and with a cluster of socio-economically similar nations.
 
 ## Dataset
 
@@ -16,7 +16,7 @@ This project investigates how **individual characteristics predict confidence in
 The main goals of this analysis are to:
 
 1. Perform **descriptive analysis** of the data and understand its structure.
-2. **Compare** participant responses between Romania and all other countries combined.
+2. **Compare participant responses** between Romania and all other countries combined.
 3. Identify how well **participant attributes** predict confidence in social organizations.
 4. **Cluster** countries using external socio-economic indicators to find those **similar to Romania** and assess how predictors of confidence compare within that group.
 
@@ -88,11 +88,12 @@ The following institutions were analyzed, identified by columns in the dataset p
 
 1. Clone the repository or download the ZIP file from GitHub.
 2. Open the project folder in RStudio.
-3. Run the R script (`wvs_analysis.r`) inside the RStudio environment.
+3. Run the R script (`confidence_analysis.r`) inside the RStudio environment.
 
 ## Author
 
 Developed by Juan Nathan.
+
 
 
 
