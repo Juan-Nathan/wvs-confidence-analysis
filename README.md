@@ -1,4 +1,4 @@
-# 🌍 World Values Survey: Analysis of Confidence in Social Organizations
+# 🌍 Analysis of Confidence in Social Organizations using World Values Survey Data
 
 This project investigates how individual characteristics predict **confidence in social institutions across countries**, using data from the World Values Survey (WVS) Wave 7 in R. The analysis focuses on **Romania** and compares its patterns with all other countries combined and with a cluster of socio-economically similar nations.
 
