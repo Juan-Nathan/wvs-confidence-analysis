@@ -11,6 +11,12 @@ This project analyzes World Values Survey (Wave 7) data in R to investigate how 
   - **Features**: 30 variables, including country, demographic attributes, and belief-based factors  
   - **Targets**: 10 institutional confidence measures 
 
+## Technologies Used
+
+- **Language**: R
+- **IDE**: RStudio
+- **Packages**: `dplyr`, `ggplot2`
+
 ## Objectives
 
 The main goals of this analysis are to:
@@ -19,12 +25,6 @@ The main goals of this analysis are to:
 2. **Compare participant responses** between Romania and all other countries combined.
 3. Identify how well **participant attributes** predict confidence in social organizations.
 4. **Cluster** countries using external socio-economic indicators to find those **similar to Romania** and assess how predictors of confidence compare within that group.
-
-## Technologies Used
-
-- **Language**: R
-- **IDE**: RStudio
-- **Packages**: `dplyr`, `ggplot2`
 
 ## Institutions Studied
 
@@ -93,6 +93,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Author
 
 Developed by Juan Nathan.
+
 
 
 
