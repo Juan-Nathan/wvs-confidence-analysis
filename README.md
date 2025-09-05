@@ -46,7 +46,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 ### 1. Descriptive Analysis  
 - Examined dataset dimensions, variable types, value ranges, missing data, and invalid responses.
 
-## 2. Preprocessing
+### 2. Preprocessing
 - Replaced invalid values with `NA`.
 
 ### 3. Focus Country (Romania) vs. All Others  
@@ -93,6 +93,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Author
 
 Developed by Juan Nathan.
+
 
 
 
