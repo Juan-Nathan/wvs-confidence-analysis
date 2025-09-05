@@ -88,11 +88,12 @@ The following institutions were analyzed, identified by columns in the dataset p
 
 1. Clone the repository or download the ZIP file from GitHub.
 2. Open the project folder in RStudio.
-3. Run the R script (`confidence_analysis.r`) inside the RStudio environment.
+3. Run the R script (`wvs_confidence_analysis.r`) inside the RStudio environment.
 
 ## Author
 
 Developed by Juan Nathan.
+
 
 
 
