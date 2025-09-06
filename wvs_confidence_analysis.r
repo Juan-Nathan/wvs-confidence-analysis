@@ -274,5 +274,3 @@ for (target in target_vars) {
   model <- lm(formula, data = model_data)
   print(summary(model))
 }
-
-
