@@ -47,7 +47,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 - Examined dataset dimensions, variable types, value ranges, missing data, and invalid responses.
 
 ### 2. Preprocessing
-- Replaced invalid values with `NA`.
+- Replaced invalid values with `NA` to ensure accurate analysis.
 
 ### 3. Focus Country (Romania) vs. All Others  
 - Compared Romania's participant responses against all other countries combined.
@@ -93,6 +93,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Author
 
 Developed by Juan Nathan.
+
 
 
 
