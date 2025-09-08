@@ -56,14 +56,14 @@ The following institutions were analyzed, identified by columns in the dataset p
 
 ### 4. Focus Country vs. Cluster of Similar Countries  
 - Clustered countries using hierarchical clustering (Euclidean distance, Ward.D2 linkage) based on 11 external indicators:
-  - GDP per capita
-  - Fertility rate
   - CO₂ emissions
   - Democracy index
+  - LGBT equality index
+  - Fertility rate
+  - GDP per capita
   - Healthcare expenditure
   - Internet usage
   - Life expectancy
-  - LGBT equality index
   - Religious composition
   - Average years of schooling
   - Unemployment rate
@@ -93,6 +93,7 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Author
 
 Developed by Juan Nathan.
+
 
 
 
