@@ -30,16 +30,16 @@ The main goals of this analysis are to:
 
 The following institutions were analyzed, identified by columns in the dataset prefixed with "`C`":
 
+- Religious institutions
 - Governments
-- Courts
 - Elections
-- Universities
-- Environmental Organizations
-- Major Companies
-- Banks
 - Police
-- Religious Institutions
-- Trade Unions
+- Trade unions
+- Courts
+- Banks
+- Major companies
+- Environmental organizations
+- Universities
 
 ## Project Workflow
 
@@ -93,24 +93,3 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Author
 
 Developed by Juan Nathan.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
