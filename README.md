@@ -73,14 +73,14 @@ The following institutions were analyzed, identified by columns in the dataset p
 
 ## Key Findings
 
-### Romania-specific findings:
+### Romania-Specific Findings
 - Confidence in **religious institutions**, **governments**, and **elections** was best predicted by the participant attributes.
 - These models had the **highest adjusted R²**, indicating stronger fit and explanatory power.
 
-### Strong and consistent predictors across analyses:
-- `VPolitics` (political interest), `VReligion` (religiosity), and `TNeighbourhood` (trust in neighbors) were the most significant predictors across Romania, its peer cluster, and the pooled group of other countries.
+### Strong and Consistent Predictors
+- `VPolitics` (political interest), `VReligion` (religiosity), and `TNeighbourhood` (trust in neighbors) were the most significant predictors across Romania, its peer cluster, and the pooled group of other countries. Each showed a **positive** effect on confidence in social organizations.
 
-### Effectiveness of clustering:
+### Effectiveness of Clustering
 - Regression models fitted to Romania produced performance and predictor patterns that **more closely matched** its peer group than those of all other countries combined. 
 - This confirms that the clustering approach was **effective**, enhancing the relevance and interpretability of the analysis by grouping countries with similar socio-economic and cultural contexts.
 
@@ -93,5 +93,6 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Author
 
 Developed by Juan Nathan.
+
 
 
