@@ -22,7 +22,7 @@ This project analyzes World Values Survey (WVS) Wave 7 data in R to investigate 
 The main goals of this analysis are to:
 
 1. Perform **descriptive analysis** of the data and understand its structure.
-2. **Compare participant responses** between Romania and all other countries combined.
+2. Compare **participant responses** between Romania and all other countries combined.
 3. Identify how well **participant attributes** predict confidence in social organizations.
 4. **Cluster** countries using external socio-economic indicators to find those **similar to Romania** and assess how predictors of confidence compare within that group.
 
@@ -93,3 +93,4 @@ The following institutions were analyzed, identified by columns in the dataset p
 ## Author
 
 Developed by Juan Nathan.
+
